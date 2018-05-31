@@ -1,0 +1,20 @@
+{
+    "name": "zhibim/get-date",
+    "description": "noe think",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "马志斌",
+            "email": "6955044@qq.com"
+        }
+    ],
+    "require": {
+      "php": ">=5.4"
+    },
+    "autoload": {
+      "psr-4": {
+        "Ql\\": "src"
+      }
+    }
+}
